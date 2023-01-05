@@ -1,4 +1,4 @@
-# flashbang
+# USE RAW VIEW
 Flashbang yourself (in Python) with this code
 
 Now, to start off with flashbanging yourself. You may look at a video on youtube but there is nothing.
